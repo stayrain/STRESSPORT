@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+body{
+  background: white;
+}
+
+main{
+  margin: 0px auto;
+  width: 100%;
+  /* max-width: 600px; */
+}
+
+#sketch-container{
+  width: 100%;
+}
